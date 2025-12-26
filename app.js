@@ -13,7 +13,7 @@ app.get("/healthz", (req, res) => {
 
 // ✅ Simple homepage so you can open the URL in a browser and see "it's alive"
 app.get("/", (req, res) => {
-  res.status(200).send("WebHookMeta is live 🚀 Use /webhook for Meta verification.");
+  res.status(200).send("WebHookMeta is live 🚀 PARMESANO ES GAY.");
 });
 
 // ✅ Meta webhook verification (GET)
